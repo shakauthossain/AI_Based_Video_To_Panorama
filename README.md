@@ -21,7 +21,7 @@ pip install opencv-python
 ### 1. Clone or Download the Repository
 Download or clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-repo/video-to-panorama.git
+git clone https://github.com/shakauthossain/AI_Based_Video_To_Panorama.git
 cd video-to-panorama
 ```
 
